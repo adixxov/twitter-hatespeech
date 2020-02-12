@@ -1,3 +1,6 @@
+# adixxov Notes
+Keywords: word embeddings, fasttext, twitter
+
 # Hate Speech Detection on Twitter
 
 Implementation of our paper titled - "Deep Learning for Hate Speech Detection" (to appear in WWW'17 proceedings). 
